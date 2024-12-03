@@ -54,6 +54,10 @@ STRIPE_PRIVATE_KEY| Stripe's prive api key ex `sk_test_????`
 - [Nodemailer](https://www.npmjs.com/package/nodemailer)
 - [Stripe](https://www.npmjs.com/package/stripe)
 
+
+![screencapture-localhost-3000-2024-12-03-23_21_39](https://github.com/user-attachments/assets/7584c7a0-4595-480b-ac5b-500f0e8940ca)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
